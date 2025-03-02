@@ -16,3 +16,5 @@ Commit squash 2
 Commit squash 3
 
 1er commit dans la branche pycharm
+
+Ajout d'une nouvelle fonctionnalité  
