@@ -1,18 +1,10 @@
-# Cours GitHub Ada
+# Projet GitHub de Boubacar
 
-Premier fichier ajouté à Git.
+Le travail va consister aux étapes suivantes :
 
-Deuxième commit du cours pour apprendre la commande `git pull`.
+- Faire un fork du repo GitHub du cours Git - GitHub de Ada
+- Clôner le repo "forké" en local
+- Créer une nouvelle branche et travailler dans celle-ci. Utiliser au maximum l'ensemble des commandes git vues au cours. Il faudra au minimum :
+  - Utiliser "Squash" pour fusionner des commits
+  - Créer une pull request vers le repo d'origine.
 
-Premier commit dans la branche `premiere_branche`
-
-Apprendre à faire une pull request
-
-Modification pour le rebase
-Modification pour le rebase numero 2
-
-Commit squash 1
-Commit squash 2
-Commit squash 3
-
-1er commit dans la branche pycharm
