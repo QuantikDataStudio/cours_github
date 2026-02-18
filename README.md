@@ -1,18 +1,11 @@
-# Cours GitHub Ada
+# Projet Final Cours GitHub Ada
 
-Premier fichier ajouté à Git.
+Apporter des modifications et utiliser la plus part des fonctions qu'on a vu dans le cours.
 
-Deuxième commit du cours pour apprendre la commande `git pull`.
+Créez une branche
 
-Premier commit dans la branche `premiere_branche`
+Squash les commits
 
-Apprendre à faire une pull request
+Créez une pull request
 
-Modification pour le rebase
-Modification pour le rebase numero 2
-
-Commit squash 1
-Commit squash 2
-Commit squash 3
-
-1er commit dans la branche pycharm
+Vérifiez avant une pull request vers notre repo source pour qu'on puisse revoir votre travail
